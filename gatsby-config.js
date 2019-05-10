@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Bier`,
-    description: `Seite über Bier`,
+    title: `Beer`,
+    description: `It's all about beer`,
     author: `@chriguc`,
   },
   plugins: [

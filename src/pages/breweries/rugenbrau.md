@@ -1,6 +1,7 @@
 ---
 title: "Rugenbräu"
 date: "2019-04-31"
+id: "rugenbrau"
 ---
 
 Rugenbräu

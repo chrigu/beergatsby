@@ -1,6 +1,7 @@
 ---
 title: "Brewery of Franches-Montagnes"
 date: "2019-04-30"
+id: "bfm"
 ---
 
 Brasserie des Franches-Montagnes (BFM)
